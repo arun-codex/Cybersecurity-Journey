@@ -15,11 +15,16 @@
 
 | Time (IST) | Activity |
 | --- | --- |
-| 11:00–11:30 PM | Watch Professor Messer's OSI model lesson |
+| 11:00–11:30 PM | Watch the OSI model study video (see learning resource below) |
 | 11:30–11:40 PM | Break |
 | 11:40 PM–12:10 AM | Active recall: write the seven layers and one example each without notes |
 | 12:10–12:30 AM | Check answers against the lesson and correct mistakes |
 | 12:30–1:00 AM | Recite the layers from top to bottom and bottom to top |
+
+## Learning resource — video watched
+
+- [OSI model — Day 3 study video](https://www.youtube.com/watch?v=AYgXr1dynKU)
+- Status: Watched (learner confirmed).
 
 ## Reference table for review
 
@@ -99,7 +104,7 @@ When analyzing traffic in Wireshark, distinguish Ethernet MAC addresses, IP addr
 
 ## Completion checklist
 
-- [ ] Watch the lesson (not independently confirmed).
+- [x] Watch the lesson (learner confirmed).
 - [x] Recall all seven layers and provide explanations.
 - [x] Review and correct answers.
 - [ ] Practise reciting the layers aloud in both directions (not confirmed).
@@ -107,7 +112,7 @@ When analyzing traffic in Wireshark, distinguish Ethernet MAC addresses, IP addr
 - [x] Document reviewed learning notes.
 - [ ] Revisit packet vs. frame and encapsulation.
 
-**Learning status:** Core Day 3 assessment completed. Optional study activities above remain unconfirmed.
+**Learning status:** Core Day 3 assessment completed. Oral practice remains unconfirmed; packet/frame and encapsulation revision is recommended.
 
 ## Next topic
 
