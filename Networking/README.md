@@ -16,7 +16,7 @@ Part of my cybersecurity learning journey, focused on networking foundations for
 
 ## Current focus
 
-Day 3 core assessment completed (25 November 2026): all seven layers recalled correctly; final test 7/8. Revisit packet vs. frame and encapsulation. Next: Day 4 — TCP/IP model. Video viewing and oral practice were not confirmed.
+Day 3 core assessment completed (25 November 2026): all seven layers recalled correctly; final test 7/8. Revisit packet vs. frame and encapsulation. Next: Day 4 — TCP/IP model. [Day 3 study video](https://www.youtube.com/watch?v=AYgXr1dynKU) watched (learner confirmed). Oral practice remains unconfirmed.
 
 **Week 1 progress: 3 of 7 days (42.9%).**
 
