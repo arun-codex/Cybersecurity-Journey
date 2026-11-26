@@ -1,7 +1,7 @@
 # Day 04 — TCP/IP Model
 
 **Date:** 26 November 2026  
-**Status:** In progress — video watched and active recall reviewed (9/10)  
+**Status:** In progress — first assessment completed; revision pending  
 **Track:** SOC / Blue Team
 
 ## Learning resource
@@ -59,14 +59,46 @@ Learner answers are lightly edited for spelling and readability. OSI mappings no
 
 OSI is a conceptual seven-layer reference model; TCP/IP is the architecture of the protocol suite used by the Internet. Both help describe network communication and troubleshoot it.
 
-Final knowledge test and personal takeaways are pending.
+Personal takeaways and revision are pending.
+
+## Final knowledge test — first attempt
+
+| Question | Learner answer (lightly edited for readability) | Score |
+| --- | --- | --- |
+| Main difference between OSI and TCP/IP? | OSI has seven layers; TCP/IP has four. | 0.5/1 |
+| Which OSI layers combine into Network Access? | Physical and Data Link. | 1/1 |
+| Difference between TCP and UDP? | TCP is reliable and ensures data reaches the receiver, unlike UDP. | 1/1 |
+| Which layer uses port numbers? | Application. | 0/1 |
+| Which layer uses MAC addresses? | Network layer. | 0.5/1 |
+| Which layer handles ICMP? | Internet layer. | 1/1 |
+| What are encapsulation and decapsulation? | Application > Transport > Internet > Network Access; reverse for decapsulation. | 0.5/1 |
+| Why are networking models important for SOC analysts? | I don't know. | 0/1 |
+
+**Final test, first attempt: 4.5/8 (56.25%).** Three correct, three partial, one incorrect and one unanswered. Half credit on the MAC question reflects the possibility that the learner meant Network Access, not the OSI Network layer.
+
+### Corrections and revision
+
+- OSI is a seven-layer conceptual reference model; TCP/IP is the four-layer Internet protocol architecture.
+- TCP uses sequencing, acknowledgements and retransmissions to provide reliable ordered delivery when a connection succeeds. It cannot guarantee that a failed connection delivers all data. UDP does not guarantee delivery or ordering.
+- Transport: TCP/UDP port numbers. Internet: IP addresses and ICMP. Network Access: MAC addresses and local frames.
+- Encapsulation adds protocol headers and applicable trailers to data. Decapsulation processes and removes them in reverse. Example: data -> TCP segment -> IP packet -> Ethernet frame -> bits/signals.
+- SOC analysts use these layers to interpret packet captures, firewall logs and SIEM alerts, and distinguish application activity, transport ports, network IPs and link-local MAC addresses. Example: a connection to TCP port 443 identifies a transport endpoint, but the port alone does not prove HTTPS or malicious activity.
+
+### Revision questions (pending)
+
+1. Which layer uses TCP/UDP ports?
+2. Which layer uses MAC addresses?
+3. Which layer handles IP addresses and ICMP?
+4. What actually happens to data during encapsulation and decapsulation?
+5. Give one example of how a SOC analyst uses networking models.
 
 ## Completion checklist
 
 - [x] Watch the TCP/IP study video (learner confirmed).
 - [x] Recall and explain the four layers (9/10).
 - [ ] Independently map all TCP/IP layers to OSI layers (application mapping demonstrated; remaining mappings reviewed).
-- [ ] Complete the self-assessment and review corrections.
+- [x] Attempt final knowledge test (4.5/8).
+- [ ] Demonstrate understanding of corrections in revision test.
 - [ ] Document personal takeaways.
 
 ## Next topic
