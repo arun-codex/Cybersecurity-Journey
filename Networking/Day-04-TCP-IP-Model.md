@@ -1,7 +1,7 @@
 # Day 04 — TCP/IP Model
 
 **Date:** 26 November 2026  
-**Status:** In progress — first assessment completed; revision pending  
+**Status:** Completed — core assessment and targeted revision (5/5)  
 **Track:** SOC / Blue Team
 
 ## Learning resource
@@ -59,7 +59,7 @@ Learner answers are lightly edited for spelling and readability. OSI mappings no
 
 OSI is a conceptual seven-layer reference model; TCP/IP is the architecture of the protocol suite used by the Internet. Both help describe network communication and troubleshoot it.
 
-Personal takeaways and revision are pending.
+Personal takeaways are recorded in the revision assessment below.
 
 ## Final knowledge test — first attempt
 
@@ -84,22 +84,32 @@ Personal takeaways and revision are pending.
 - Encapsulation adds protocol headers and applicable trailers to data. Decapsulation processes and removes them in reverse. Example: data -> TCP segment -> IP packet -> Ethernet frame -> bits/signals.
 - SOC analysts use these layers to interpret packet captures, firewall logs and SIEM alerts, and distinguish application activity, transport ports, network IPs and link-local MAC addresses. Example: a connection to TCP port 443 identifies a transport endpoint, but the port alone does not prove HTTPS or malicious activity.
 
-### Revision questions (pending)
+### Revision assessment — completed
 
-1. Which layer uses TCP/UDP ports?
-2. Which layer uses MAC addresses?
-3. Which layer handles IP addresses and ICMP?
-4. What actually happens to data during encapsulation and decapsulation?
-5. Give one example of how a SOC analyst uses networking models.
+| Question | Learner answer (lightly edited for readability) | Marks |
+| --- | --- | --- |
+| Which layer uses port numbers? | Transport. | 1/1 |
+| Which layer uses MAC addresses? | Network Access. | 1/1 |
+| Which layer handles IP addresses and ICMP? | Internet. | 1/1 |
+| What happens during encapsulation and decapsulation? | During encapsulation, protocol information is added when applicable; during decapsulation, it is removed when receiving data. | 1/1 |
+| How does a SOC analyst use networking models? | Application: suspicious DNS queries; Transport: which ports are being used; Internet: suspicious IP addresses. | 1/1 |
+
+**Revision test: 5/5 (100%).** This is a targeted retest of the concepts missed in the first assessment, not a replacement for the original score.
+
+Technical clarification: encapsulation adds headers and applicable trailers; decapsulation processes and removes them at the receiver.
+
+Learner's demonstrated takeaways: distinguish transport ports, link-local MAC addresses and IP addresses; explain encapsulation and decapsulation; relate DNS queries, ports and IP addresses to SOC investigations.
+
+**Learning status:** Day 4 core assessment and targeted revision completed. Full independent OSI mapping has not been separately tested. No practical lab is claimed.
 
 ## Completion checklist
 
 - [x] Watch the TCP/IP study video (learner confirmed).
 - [x] Recall and explain the four layers (9/10).
-- [ ] Independently map all TCP/IP layers to OSI layers (application mapping demonstrated; remaining mappings reviewed).
+- [ ] Independently map all TCP/IP layers to OSI layers (application and Network Access mappings demonstrated; full independent mapping not separately tested).
 - [x] Attempt final knowledge test (4.5/8).
-- [ ] Demonstrate understanding of corrections in revision test.
-- [ ] Document personal takeaways.
+- [x] Demonstrate understanding of corrections in revision test (5/5).
+- [x] Document demonstrated personal takeaways.
 
 ## Next topic
 
