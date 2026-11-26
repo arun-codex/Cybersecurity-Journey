@@ -6,9 +6,8 @@
 
 ## Learning resource
 
-- [TCP/IP model — Day 4 study video](https://www.youtube.com/watch?v=CRdL1PcherM&t=238s)
+- [TCP/IP model — Day 4 study video](https://www.youtube.com/watch?v=CRdL1PcherM)
 - Status: Watched (learner confirmed).
-- The original timestamp supplied by the learner is preserved.
 
 ## Learning objectives
 
