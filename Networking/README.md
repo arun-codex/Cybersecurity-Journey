@@ -6,8 +6,8 @@ Part of my cybersecurity learning journey, focused on networking foundations for
 
 | Day | Topic | Status |
 | --- | --- | --- |
-| 1 | Learning environment setup | Completed |
-| 2 | Linux environment exploration and networking introduction | Completed |
+| 1 | [Learning environment setup](Day-01-Environment-Setup.md) | Completed |
+| 2 | [Linux environment exploration and networking introduction](Day-02-Networking-Introduction.md) | Completed |
 | 3 | [OSI Model](Day-03-OSI-Model.md) | Completed — 7/8 (87.5%) |
 | 4 | [TCP/IP model](Day-04-TCP-IP-Model.md) | Completed — first test 4.5/8; revision 5/5 (100%) |
 | 5 | IP addressing and subnetting basics | Planned |
@@ -20,7 +20,7 @@ Day 3 core assessment completed (25 November 2026): all seven layers recalled co
 
 **Week 1 progress: 4 of 7 days (57.1%).**
 
-Days 1 and 2 are recorded as completed based on my learning status. No unverified lab results or screenshots are included.
+Days 1 and 2 have retrospective learning documents based on the study plan and my reported completion. No unverified lab results or screenshots are included.
 
 ## Learning approach
 
