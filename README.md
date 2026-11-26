@@ -154,7 +154,7 @@ Projects will be documented with objectives, lab setup, methodology, sanitized e
 | Day | Topic | Resource |
 | --- | --- | --- |
 | 03 | OSI Model | [Watch video](https://www.youtube.com/watch?v=AYgXr1dynKU) |
-| 04 | TCP/IP Model | [Watch video (original timestamp)](https://www.youtube.com/watch?v=CRdL1PcherM&t=238s) |
+| 04 | TCP/IP Model | [Watch video](https://www.youtube.com/watch?v=CRdL1PcherM) |
 
 ### Reference library for future study
 
