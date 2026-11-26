@@ -29,7 +29,7 @@ Week 1  [###########---------]  57.1%  (4 of 7 days)
 | Metric | Current record |
 | --- | --- |
 | Week 1 study days completed | 4 / 7 |
-| Detailed daily lesson documents | 2 |
+| Daily learning documents | 4 |
 | Study videos recorded | 2 |
 | Day 3 knowledge test | 7/8 (87.5%) |
 | Day 4 active recall | 9/10 (90%) |
@@ -47,6 +47,8 @@ Cybersecurity-Journey/
 ├── README.md
 └── Networking/
     ├── README.md
+    ├── Day-01-Environment-Setup.md
+    ├── Day-02-Networking-Introduction.md
     ├── Day-03-OSI-Model.md
     └── Day-04-TCP-IP-Model.md
 ```
@@ -54,6 +56,8 @@ Cybersecurity-Journey/
 | Document | Purpose |
 | --- | --- |
 | [Networking/README.md](Networking/README.md) | Weekly progress, topics and study status |
+| [Day 01 — Learning Environment Setup](Networking/Day-01-Environment-Setup.md) | Original setup plan, environment choice and retrospective completion record |
+| [Day 02 — Networking Introduction](Networking/Day-02-Networking-Introduction.md) | Introductory networking concepts, planned resource and retrospective completion record |
 | [Day 03 — OSI Model](Networking/Day-03-OSI-Model.md) | Seven layers, active recall, assessment, corrections and video resource |
 | [Day 04 — TCP/IP Model](Networking/Day-04-TCP-IP-Model.md) | Four layers, model mapping, first assessment, revision and SOC relevance |
 
@@ -65,8 +69,8 @@ Additional subject folders will be added when study begins, rather than listing 
 
 | Day | Topic | Status | Evidence / outcome |
 | --- | --- | --- | --- |
-| 01 | Learning environment setup | Completed | Learner-reported completion |
-| 02 | Linux exploration and networking introduction | Completed | Learner-reported completion |
+| 01 | [Learning environment setup](Networking/Day-01-Environment-Setup.md) | Completed | Learner-reported completion; retrospective notes |
+| 02 | [Linux exploration and networking introduction](Networking/Day-02-Networking-Introduction.md) | Completed | Learner-reported completion; retrospective notes |
 | 03 | [OSI Model](Networking/Day-03-OSI-Model.md) | Completed | Seven layers recalled; final test 87.5% |
 | 04 | [TCP/IP Model](Networking/Day-04-TCP-IP-Model.md) | Completed | Four layers recalled; revision 100% |
 | 05 | IP addressing and subnetting | Planned | IPv4, public/private IPs, subnet masks |
