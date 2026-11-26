@@ -16,7 +16,7 @@ Part of my cybersecurity learning journey, focused on networking foundations for
 
 ## Current focus
 
-Day 3 core assessment completed (25 November 2026): all seven layers recalled correctly; final test 7/8. Revisit packet vs. frame and encapsulation. Day 4 core assessment and revision completed — TCP/IP model (26 November 2026). [Day 4 study video](https://www.youtube.com/watch?v=CRdL1PcherM&t=238s) watched; active recall 9/10 (90%), first final test 4.5/8 (56.25%). Targeted revision 5/5 (100%): ports, MAC addresses, IP/ICMP, encapsulation and SOC applications. Full independent OSI mapping has not been separately tested. Next: Day 5 — IP addressing and subnetting basics. [Day 3 study video](https://www.youtube.com/watch?v=AYgXr1dynKU) watched (learner confirmed). Oral practice remains unconfirmed.
+Day 3 core assessment completed (25 November 2026): all seven layers recalled correctly; final test 7/8. Revisit packet vs. frame and encapsulation. Day 4 core assessment and revision completed — TCP/IP model (26 November 2026). [Day 4 study video](https://www.youtube.com/watch?v=CRdL1PcherM) watched; active recall 9/10 (90%), first final test 4.5/8 (56.25%). Targeted revision 5/5 (100%): ports, MAC addresses, IP/ICMP, encapsulation and SOC applications. Full independent OSI mapping has not been separately tested. Next: Day 5 — IP addressing and subnetting basics. [Day 3 study video](https://www.youtube.com/watch?v=AYgXr1dynKU) watched (learner confirmed). Oral practice remains unconfirmed.
 
 **Week 1 progress: 4 of 7 days (57.1%).**
 
