@@ -17,10 +17,10 @@ The goal is not simply to complete courses. It is to develop practical, explaina
 
 ## Current learning progress
 
-**Last updated:** 26 November 2026  
+**Last updated:** 27 November 2026  
 **Current phase:** Month 1 — Networking and Linux Foundations  
 **Latest completed lesson:** Day 4 — TCP/IP Model  
-**Next lesson:** Day 5 — IP Addressing and Subnetting
+**Current lesson:** [Day 5 — IP Addressing and Subnetting](Networking/Day-05-IP-Addressing-and-Subnetting.md) (in progress)
 
 ```text
 Week 1  [###########---------]  57.1%  (4 of 7 days)
@@ -29,8 +29,9 @@ Week 1  [###########---------]  57.1%  (4 of 7 days)
 | Metric | Current record |
 | --- | --- |
 | Week 1 study days completed | 4 / 7 |
-| Daily learning documents | 4 |
-| Study videos recorded | 2 |
+| Daily learning documents | 5 |
+| Study videos recorded as watched | 2 |
+| Day 5 playlist progress | 0/9 episodes confirmed |
 | Day 3 knowledge test | 7/8 (87.5%) |
 | Day 4 active recall | 9/10 (90%) |
 | Day 4 first knowledge test | 4.5/8 (56.25%) |
@@ -50,7 +51,8 @@ Cybersecurity-Journey/
     ├── Day-01-Environment-Setup.md
     ├── Day-02-Networking-Introduction.md
     ├── Day-03-OSI-Model.md
-    └── Day-04-TCP-IP-Model.md
+    ├── Day-04-TCP-IP-Model.md
+    └── Day-05-IP-Addressing-and-Subnetting.md
 ```
 
 | Document | Purpose |
@@ -60,6 +62,7 @@ Cybersecurity-Journey/
 | [Day 02 — Networking Introduction](Networking/Day-02-Networking-Introduction.md) | Introductory networking concepts, planned resource and retrospective completion record |
 | [Day 03 — OSI Model](Networking/Day-03-OSI-Model.md) | Seven layers, active recall, assessment, corrections and video resource |
 | [Day 04 — TCP/IP Model](Networking/Day-04-TCP-IP-Model.md) | Four layers, model mapping, first assessment, revision and SOC relevance |
+| [Day 05 — IP Addressing and Subnetting](Networking/Day-05-IP-Addressing-and-Subnetting.md) | Playlist tracker, study objectives and pending assessment |
 
 Additional subject folders will be added when study begins, rather than listing empty or nonexistent modules as completed.
 
@@ -73,7 +76,7 @@ Additional subject folders will be added when study begins, rather than listing 
 | 02 | [Linux exploration and networking introduction](Networking/Day-02-Networking-Introduction.md) | Completed | Learner-reported completion; retrospective notes |
 | 03 | [OSI Model](Networking/Day-03-OSI-Model.md) | Completed | Seven layers recalled; final test 87.5% |
 | 04 | [TCP/IP Model](Networking/Day-04-TCP-IP-Model.md) | Completed | Four layers recalled; revision 100% |
-| 05 | IP addressing and subnetting | Planned | IPv4, public/private IPs, subnet masks |
+| 05 | [IP addressing and subnetting](Networking/Day-05-IP-Addressing-and-Subnetting.md) | In progress | NetworkChuck playlist selected; 0/9 episodes confirmed |
 | 06 | Ports, protocols and introductory networking labs | Planned | Common ports and authorized practice |
 | 07 | Weekly revision and networking labs | Planned | Self-test and concept reinforcement |
 
@@ -155,6 +158,10 @@ Projects will be documented with objectives, lab setup, methodology, sanitized e
 | --- | --- | --- |
 | 03 | OSI Model | [Watch video](https://www.youtube.com/watch?v=AYgXr1dynKU) |
 | 04 | TCP/IP Model | [Watch video](https://www.youtube.com/watch?v=CRdL1PcherM) |
+
+### Current study resource (not yet completed)
+
+- Day 5: [You Suck at Subnetting — NetworkChuck](https://www.youtube.com/playlist?list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF) — 0/9 episodes confirmed; see the [Day 5 tracker](Networking/Day-05-IP-Addressing-and-Subnetting.md).
 
 ### Reference library for future study
 
